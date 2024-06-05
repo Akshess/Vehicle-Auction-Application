@@ -1,8 +1,9 @@
 # Vehicle-Auction-Application
 It is a Java Based android Application designed to take one step ahead in 2nd hand vehicle selling and buying with auction  format. Where the user who are new have the option to register and if already has account can just login and move on and start Bidding.
-Due to some changes the folder size has increased and due to which facing difficulties in uploading in this repo but the older code is available under 
+>[!Note]
+>Due to some changes the folder size has increased and due to which facing difficulties in uploading in this repo but the older code is available under 
+>[Project Code](https://github.com/Akshess/Project)
 
-[Project Code](https://github.com/Akshess/Project)
 
 
 ## Registration Page
