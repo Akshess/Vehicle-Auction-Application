@@ -19,10 +19,13 @@ Here you have the options such as Buy,Sell and History, Ill break down these as 
 
 ## Sell Page
 As the name suggest here you have to enter the image of the vehicle , brand name . model and initial bid price.
+
+![Sell Page](https://github.com/Akshess/Vehicle-Auction-Application/blob/main/Images/sell.png)
+
 >[!NOTE]
 >Bid is only for 24hr time, Once the 24hr is exceeded then it is pushed to history page
 
-![Sell Page](https://github.com/Akshess/Vehicle-Auction-Application/blob/main/Images/sell.png)
+
 
 ## Buy Page
 In here you will see all the vehicles that are available for auction, it shows the name , image, model and initial bid price of the vehicles respectively.
